@@ -4,8 +4,8 @@ This project demonstrates a complete Cloud-Native CI/CD pipeline implementation 
 
 ## Project Details
 * **Course Assignment:** Final Project - CI/CD Pipeline Implementation
-* **Student Name:** [Your Full Name]
-* **Date:** [Current Date]
+* **Student Name:** Samit Srivastava
+* **Date:** [20th June 2026]
 * **Target Environment:** Red Hat OpenShift Cluster
 
 ---
