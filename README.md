@@ -1,9 +1,9 @@
-# OpenShift CI/CD Pipeline Implementation Project
+# ci-cd-final-project
 
 This project demonstrates a complete Cloud-Native CI/CD pipeline implementation using GitHub Actions for Continuous Integration (CI) and Red Hat OpenShift with Tekton for Continuous Deployment (CD).
 
 ## Project Details
-* **Course Assignment:** Final Project - CI/CD Pipeline Implementation
+* **Course Assignment:** ci-cd-final-project
 * **Student Name:** Samit Srivastava
 * **Date:** [20th June 2026]
 * **Target Environment:** Red Hat OpenShift Cluster
@@ -31,14 +31,14 @@ The cloud deployment pipeline automates the packaging and delivery of the applic
 * `.github/workflows/workflow.yml` — GitHub Actions automated CI definition.
 * `.tekton/tasks.yml` — Tekton Pipeline custom task definitions (Cleanup & Testing).
 * `README.md` — Project layout and structural overview.
-# OpenShift CI/CD Pipeline Implementation Project
+# ci-cd-final-project
 
 This project demonstrates a complete Cloud-Native CI/CD pipeline implementation using GitHub Actions for Continuous Integration (CI) and Red Hat OpenShift with Tekton for Continuous Deployment (CD).
 
 ## Project Details
-* **Course Assignment:** Final Project - CI/CD Pipeline Implementation
-* **Student Name:** [Your Full Name]
-* **Date:** [Current Date]
+* **Course Assignment:** ci-cd-final-project
+* **Student Name:** Samit Srivastava
+* **Date:** 20 June 2026
 * **Target Environment:** Red Hat OpenShift Cluster
 
 ---
